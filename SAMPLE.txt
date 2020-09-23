@@ -1,0 +1,28 @@
+Input:
+Hello World!
+
+Output:
+Missmatching frequencies over 5%:
+Letter: a | Calculated: 0.0 | Origional: 8.12 | Differance: 8.12
+Letter: d | Calculated: 10.0 | Origional: 4.32 | Differance: 5.68
+Letter: i | Calculated: 0.0 | Origional: 7.31 | Differance: 7.31
+Letter: l | Calculated: 30.0 | Origional: 3.98 | Differance: 26.02
+Letter: n | Calculated: 0.0 | Origional: 6.95 | Differance: 6.95
+Letter: o | Calculated: 20.0 | Origional: 7.68 | Differance: 12.32
+Letter: s | Calculated: 0.0 | Origional: 6.28 | Differance: 6.28
+Letter: t | Calculated: 0.0 | Origional: 9.1 | Differance: 9.1
+Letter: w | Calculated: 10.0 | Origional: 2.09 | Differance: 7.91
+
+Input:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent varius mattis finibus.
+Nunc dictum elit diam, eu iaculis mi ornare eget. Etiam vel risus ullamcorper, molestie
+sapien pellentesque, lacinia dolor. Proin dictum tempor lorem maximus tempus. Proin id
+quam viverra, sollicitudin lacus posuere, auctor mi. Ut suscipit vitae erat a tempor.
+Nunc vestibulum, augue at tincidunt venenatis, nibh urna porttitor urna, bibendum ornare
+quam sem ac lorem. In ut eros elementum, dignissim augue ut, fringilla est. Cras eu felis
+quis sem tincidunt convallis. Fusce dapibus nibh in efficitur pulvinar.
+
+Output:
+Missmatching frequencies over 5%:
+Letter: h | Calculated: 0.4082 | Origional: 5.92 | Differance: 5.5118
+Letter: u | Calculated: 8.7755 | Origional: 2.88 | Differance: 5.8955
